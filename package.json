@@ -1,0 +1,11 @@
+{
+  "name": "musicbee-login-form",
+  "version": "1.0.0",
+  "description": "Login form for a frictional company called MusicBee",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinay",
+  "license": "ISC"
+}
